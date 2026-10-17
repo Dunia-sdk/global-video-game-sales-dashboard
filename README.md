@@ -74,6 +74,6 @@ Dounia Sadik
 
 Aspiring Data Analyst | Full-Stack Development Graduate
 
-LinkedIn
+LinkedIn : www.linkedin.com/in/sadik-dounia
 
-Portfolio
+Portfolio : https://dunia-sdk.github.io/Portfolio-Dunia/#/about
